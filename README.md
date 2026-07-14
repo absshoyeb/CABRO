@@ -3,7 +3,7 @@
 ### Modern Responsive Taxi Service Website
 
 <p align="center">
-  <img src="./screenshot.png" alt="Cabro Website Preview" width="100%">
+  <img src="./preview.png" alt="Cabro Website Preview" width="100%">
 </p>
 
 <p align="center">
