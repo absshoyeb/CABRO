@@ -1043,7 +1043,7 @@ button:focus {
   border: 0;
   outline: 0;
   background-color: var(--color-primary);
-  background-image: url(../images/right-arrow.png);
+  background-image: url(../images/icons/right-arrow.png);
   background-repeat: no-repeat;
   background-position: center;
   background-size: 24px;
